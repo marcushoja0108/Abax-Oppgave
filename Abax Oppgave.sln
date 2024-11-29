@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abax Oppgave", "Abax Oppgave\Abax Oppgave.csproj", "{BE3988BB-C259-4074-A8C5-1C87AECDFAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3988BB-C259-4074-A8C5-1C87AECDFAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3988BB-C259-4074-A8C5-1C87AECDFAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3988BB-C259-4074-A8C5-1C87AECDFAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3988BB-C259-4074-A8C5-1C87AECDFAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {394DCDA9-A3E3-46E8-B9F1-D239279C2E96}
+	EndGlobalSection
+EndGlobal
